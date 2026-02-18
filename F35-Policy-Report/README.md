@@ -6,7 +6,7 @@
 * **Date**: November 5, 2025
 
 ## Executive Summary
-This final policy report, addressed to the Secretary of State, analyzes the F-35 Lightning II program as the "linchpin" of American security. It evaluates the program's history, from the transition to 5th-generation aircraft to its current role as the most produced stealth fighter in history. The report provides tailored policy solutions to address critical industrial and organizational challenges, such as raw material bottlenecks and supply chain vulnerabilities.
+This final policy report, analyzes the F-35 Lightning II program as the linchpin of American security. It evaluates the program's history, from the transition to 5th-generation aircraft to its current role as the most produced stealth fighter in history. The report provides tailored policy solutions to address critical industrial and organizational challenges, such as raw material bottlenecks and supply chain vulnerabilities.
 
 ## Key Themes
 * **Technological Progression**: Traces the evolution of stealth from the F-117 and F-22 to the multirole capabilities of the F-35.
