@@ -1,7 +1,7 @@
 # Public Policy and International Affairs Portfolio
 **Wells Benjamin** | University of Georgia
 
-Welcome to my research and writing portfolio. This repository serves as a centralized collection of policy reports, academic research, and issue briefs focusing on international security, technological competition, and geopolitical analysis.
+Welcome to my research and writing portfolio. This repository serves as a centralized collection of policy reports, academic research, and issue briefs focusing on international security, defense technology, public health in a strategic context, and geopolitical analysis.
 
 ## Research Categories and Documents
 
