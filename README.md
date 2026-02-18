@@ -1,17 +1,16 @@
 # Public Policy and International Affairs Writing Portfolio
 **Wells Benjamin** | University of Georgia
 
-```text
-            _____
-        ,-:` \;',`'-, 
-      .'-;_,;  ':-;_,'.       
-     /;   '/    ,  _`.-\      
-    | '`. (`     /` ` \`|      
-    |:.  `\`-.   \_   / |        
-    |     (   `,  .`\ ;'|        
-     \     | .'     `-'/          
-      `.   ;/        .'
-         `'-._____.`
+        _____
+    ,-:` \;',`'-, 
+  .'-;_,;  ':-;_,'.
+ /;   '/    ,  _`.-\
+| '`. (`     /` ` \`|
+|:.  `\`-.   \_   / |
+|     (   `,  .`\ ;'|
+ \     | .'     `-'/
+  `.   ;/        .'
+     `'-._____.
 
 Welcome to my research and writing portfolio. This repository serves as a centralized collection of policy reports, academic research, and issue briefs focusing on international security, defense technology, public health in a strategic context, and geopolitical analysis.
 
