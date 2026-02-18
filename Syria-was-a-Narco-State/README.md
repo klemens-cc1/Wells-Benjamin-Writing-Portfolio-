@@ -2,7 +2,7 @@
 
 ## Document Details
 * **Type**: Center for International Trade and Security (CITS) Report
-* **Length**: 2 Pages (Large Format)
+* **Length**: 4 Pages 
 * **Date**: May 2025
 
 ## Executive Summary
